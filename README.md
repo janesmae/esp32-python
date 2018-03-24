@@ -1,2 +1,5 @@
 # esp32-python
-Documentation for my ESP32
+
+Documentation for my WeMos ESP-Wroom-32 Board
+
+
